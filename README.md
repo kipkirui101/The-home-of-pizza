@@ -8,8 +8,6 @@
 * navigate via the terminal 
 * open via any code editor eg vscode
 
-## Live link
-
 ## Known Bugs
 {all parts are not working as required }
 ## Technologies Used
@@ -20,4 +18,6 @@
 * jquery
 ## Support and contact details
 {you can contact me via email stephenekirui97@gmail.com}
-Copyright (c) {year} **{stephene kirui}**
+### License
+
+Copyright (c) {2021} **{kipkirui}**
