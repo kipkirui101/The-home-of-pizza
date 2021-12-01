@@ -4,7 +4,8 @@
 ## Description
 {simple application for ordering }
 ## Setup/Installation Requirements
-* clone the project
+* clone the project via the link
+https://github.com/kipkirui101/The-home-of-pizza.git
 * navigate via the terminal 
 * open via any code editor eg vscode
 
